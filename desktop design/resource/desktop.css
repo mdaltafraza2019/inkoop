@@ -1,0 +1,92 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Shippori+Antique+B1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shippori+Antique+B1&display=swap');
+nav{
+    background-color: cadetblue;
+    height: 50px;
+}
+nav h2{
+    float: left;
+}
+ nav div{
+    text-align: center;
+    
+      
+    
+}
+nav input{
+    float: right;
+    padding: 2px;
+    border-radius: 5px;
+}
+nav a{
+    padding: 20px;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    text-align: center;
+}
+
+#sec1{
+    text-align: center;
+}
+#sec1 h1{
+    font-size: 20px;
+    font-weight: bolder;
+    text-align: center;
+    font-family: 'Shippori Antique B1', sans-serif;
+    
+}
+#sec1 p{
+    font-size: 18;
+    text-align: center;
+}
+#sec1 span{
+    color: blue;
+    
+}
+#sec1 button{
+    background-color: blue;
+    color: whitesmoke;
+    padding: 5px 20px;
+    font-family: 'Shippori Antique B1', sans-serif;
+    font-size: large;
+    border-radius: 5px;
+}
+#d1{
+    display: inline-block;
+    vertical-align: top;
+    width: max-content;
+    background-color: blanchedalmond;
+    margin-top: 20px;
+}
+#sec2{
+    text-align: center;
+    margin-top: 30px;
+}
+#sec2 img{
+    height: 200px;
+}
+#d2 img{
+    height: 30px;
+    padding: 5px;
+
+}
+#last{
+    text-align: center;
+    background-color: blue;
+    color: whitesmoke;
+}
+#last img{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+
+}
+#last p{
+    display:inline-block;
+    /* margin-left: -100px; */
+    margin-top: 20px;
+    text-align: left;
+}
+
